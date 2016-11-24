@@ -1,4 +1,6 @@
 <?php
+
+
 abstract class Authentication_Abstract
 {
         
